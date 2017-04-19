@@ -2,7 +2,7 @@
 
 #headwrap  {
 	width: 900px;
-	margin-left: 30px;
+	margin-left: 35px;
 	margin-top: 10px;
 	background-color: #ffffff;
 	height: 40px;
@@ -10,12 +10,11 @@
 
 nav {
 	margin-top: 13px;
-	max-width: 275px;
+	max-width: 280px;
 	float: right;
 	font-weight: normal;
 	margin-bottom: 2px;
-
-		
+	margin-right: 10px;		
 }
 
 
@@ -47,7 +46,7 @@ img {
 
 }
 section {
-	background-image: url(../images/Background-Texture.jpg);
+	background-image: url(../images/concrete_seamless.png);
 	border: 3px solid #666666;
 	height: auto;
 	
